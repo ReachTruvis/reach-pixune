@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Pixune
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Pixune Software
+              Best In Class Photo and Image Editing Software for Textile Design
             </p>
 
 

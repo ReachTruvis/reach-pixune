@@ -90,7 +90,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            Best In Class Pixune Software
+            Best In Class Photo and Image Editing Software for Textile Design
           </p>
 
         </div>
